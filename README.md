@@ -2,7 +2,7 @@
 Data storytelling project on shrinkflation using BLS R-CPI-SC
 # Shrinkflation, Measured: What Smaller Packages Actually Did to Prices
 
-This project uses data from the U.S. Bureau of Labor Statistics to explore **shrinkflation** which is the practice of reducing product sizes while keeping prices the same and unchanged.
+This project uses data from the U.S. Bureau of Labor Statistics to explore **shrinkflation** which is the practice of reducing product sizes while keeping prices the same.
 
 By combining two research datasets we can see both **how much prices changed and how often shrinkflation events occurred**. The datasets are :  
 - **R-CPI-SC Index** - this shows what inflation would look like if package sizes never changed  
@@ -13,7 +13,7 @@ By combining two research datasets we can see both **how much prices changed and
 - **Full analysis notebook**: https://github.com/hadil-ghazal/Shrinkflation-Project/blob/main/notebooks/01_shrinkflation_analysis.ipynb
 - **Figures and visuals**: https://github.com/hadil-ghazal/Shrinkflation-Project/tree/main/outputs/figures
 - **public facing presentation:** https://github.com/hadil-ghazal/Shrinkflation-Project/blob/main/outputs/public/01_shrinkflation_analysis.html
-   - *Note: GitHub shows raw HTML code when previewing the public facing html. To view it as intended download that .html file and simply open         it in your web browser to view
+   - *Note: GitHub shows raw HTML code when previewing the public facing html. To view it as intended download that .html file and simply open it in your web browser to view
 
 ---
 
@@ -76,6 +76,6 @@ A few things to keep in mind when interpreting this project:
 ## Conclusion:
 
 Shrinkflation is real, but its overall inflation impact is modest.
-The consumer frustration comes from the double/compounud effect which is when two things happen simultaneously: 1. Prices are higher **AND** 2. Products are smaller more often. It's fair to say if only the price went up, or the products decreased in size alone, the impact would be less burdensome. But given they are both happening at once, the result feels more "expensive"
+The consumer frustration comes from the double/compounud effect which is when two things happen simultaneously: 1. Prices are higher **AND** 2. Products are smaller more often. It's fair to say if the price went up alone, or the products decreased in size alone - that the impact would be less burdensome. But given they are both happening simultaneously, the result feels more "expensive"
 
 Combined, all these trends explain why groceries feel more expensive than CPI being assessed in isolation alone suggests.
