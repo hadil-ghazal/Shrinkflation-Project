@@ -9,7 +9,7 @@ By combining two research datasets we can see both **how much prices changed and
 - **Frequency of Size Changes** - this counts how often products in the CPI sample were downsized(less product for the same price) or upsized(more product for the same price) 
 
 ---
-##Important Deliverables:
+## Important Deliverables:
 - **Full analysis notebook**: https://github.com/hadil-ghazal/Shrinkflation-Project/blob/main/notebooks/01_shrinkflation_analysis.ipynb
 - **Figures and visuals**: https://github.com/hadil-ghazal/Shrinkflation-Project/tree/main/outputs/figures
 - **public facing presentation:** https://github.com/hadil-ghazal/Shrinkflation-Project/blob/main/outputs/public/01_shrinkflation_analysis.html
