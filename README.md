@@ -30,7 +30,7 @@ outputs/figures/ # Exported charts for blog/presentation
 
 ---
 
-## ⚙️ Reproducibility
+## Reproducibility
 To reproduce this project:
 
 1. Clone the repo:
@@ -65,7 +65,7 @@ Imputation choices affect how size changes are removed from the index.
 Takeaways should be framed as illustrative, not definitive.
 
 
-##Conclusion:
+## Conclusion:
 
 Shrinkflation is real, but its overall inflation impact is modest.
 The consumer frustration comes from the double effect:
